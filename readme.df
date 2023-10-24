@@ -1,0 +1,6 @@
+Hello All,
+I have been learning Data Analysis on my own through online courses and YouTube tutorials. Recently, i saw a prediction model for ICC Cricket World Cup 2019 and i started to make a new model for 2023 CWC.
+I am currently unable to understand where i am wrong. The code runs fine till now but the match winner prediction output is incorrect. If you see the output, carefully, the Team_2 is getting declared as winners in all the case. Whereas, i want it to make predictions based on the rankings and the results from the previous years.
+I was making this project to add on my portfolio to find job opportunities but i need help in fixing this.
+Any tips or guidance would be highly appreciated.
+Regards.
