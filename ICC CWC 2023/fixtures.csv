@@ -1,0 +1,49 @@
+Round;Date;City;Team_1;Team_2;Group;Winner
+1;05/10/2023; Ahmedabad;New Zealand;England;Group A;New Zealand
+1;06/10/2023; Hyderabad;Netherlands;Pakistan;Group A;Pakistan
+1;07/10/2023;Dharamshala;Afghanistan;Bangladesh;Group A;Bangladesh
+1;07/10/2023; Delhi;Sri Lanka;South Africa;Group A;South Africa
+1;08/10/2023; Chennai;Australia;India;Group A;India
+1;09/10/2023; Hyderabad;Netherlands;New Zealand;Group A;New Zealand
+1;10/10/2023;Dharamshala;Bangladesh;England;Group A;England
+1;10/10/2023; Hyderabad;Sri Lanka;Pakistan;Group A;Pakistan
+1;11/10/2023; Delhi;Afghanistan;India;Group A;India
+1;12/10/2023; Lucknow;South Africa;Australia;Group A;South Africa
+1;13/10/2023; Chennai;Bangladesh;New Zealand;Group A;New Zealand
+1;14/10/2023; Ahmedabad;Pakistan;India;Group A;India
+1;15/10/2023; Delhi;Afghanistan;England;Group A;Afghanistan
+1;16/10/2023; Lucknow;Sri Lanka;Australia;Group A;Australia
+1;17/10/2023;Dharamshala;Netherlands;South Africa;Group A;
+1;18/10/2023; Chennai;Afghanistan;New Zealand;Group A;
+1;19/10/2023; Gahunje;Bangladesh;India;Group A;
+1;20/10/2023; Bengaluru;Pakistan;Australia;Group A;
+1;21/10/2023; Lucknow;Sri Lanka;Netherlands;Group A;
+1;21/10/2023; Mumbai;South Africa;England;Group A;
+1;22/10/2023;Dharamshala;New Zealand;India;Group A;
+1;23/10/2023; Chennai;Afghanistan;Pakistan;Group A;
+1;24/10/2023; Mumbai;Bangladesh;South Africa;Group A;
+1;25/10/2023; Delhi;Netherlands;Australia;Group A;
+1;26/10/2023; Bengaluru;Sri Lanka;England;Group A;
+1;27/10/2023; Lucknow;South Africa;Pakistan;Group A;
+1;28/10/2023;Dharamshala;New Zealand;Australia;Group A;
+1;28/10/2023; Kolkata;Bangladesh;Netherlands;Group A;
+1;29/10/2023; Lucknow;England;India;Group A;
+1;30/10/2023; Gahunje;Sri Lanka;Afghanistan;Group A;
+1;31/10/2023; Kolkata;Bangladesh;Pakistan;Group A;
+1;01/11/2023; Gahunje;South Africa;New Zealand;Group A;
+1;02/11/2023; Mumbai;Sri Lanka;India;Group A;
+1;03/11/2023; Lucknow;Afghanistan;Netherlands;Group A;
+1;04/11/2023; Bengaluru;Pakistan;New Zealand;Group A;
+1;04/11/2023; Ahmedabad;Australia;England;Group A;
+1;05/11/2023; Kolkata;South Africa;India;Group A;
+1;06/11/2023; Delhi;Sri Lanka;Bangladesh;Group A;
+1;07/11/2023; Mumbai;Afghanistan;Australia;Group A;
+1;08/11/2023; Gahunje;Netherlands;England;Group A;
+1;09/11/2023; Bengaluru;Sri Lanka;New Zealand;Group A;
+1;10/11/2023; Ahmedabad;Afghanistan;South Africa;Group A;
+1;11/11/2023; Gahunje;Bangladesh;Australia;Group A;
+1;11/11/2023; Kolkata;Pakistan;England;Group A;
+1;12/11/2023; Bengaluru;Netherlands;India;Group A;
+Semi-Finals;15/11/2023; Mumbai;4th Place;1st Place;Group A;
+Semi-Finals;16/11/2023; Kolkata;3rd Place;2nd Place;Group A;
+Finals;19/11/2023; Ahmedabad;Winner of Semi- Final 2;Winner of Semi- Final 1;Group A;
